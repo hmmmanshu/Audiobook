@@ -1,6 +1,6 @@
 # Audiobook
 
-This does what it does :)
+This does what it does .... Basically read out a pdf 😴
 
 Before running make sure that you have the libraries installed
 
